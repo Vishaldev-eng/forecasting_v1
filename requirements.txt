@@ -1,0 +1,8 @@
+streamlit
+prophet
+statsmodels
+scikit-learn
+matplotlib
+pyodbc
+pandas
+python-dotenv
